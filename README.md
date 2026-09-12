@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sahilbhatiaclg/sahilbhatiaclg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="art.svg" alt="Animated ASCII Art" width="600" />
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>
+    <code>&gt; "Don't try to understand it, Feel it."</code>
+  </h1>
+
+  <p>
+    <code>[ root@sahilbhatiaclg:~ ]# whoami</code><br>
+    <strong>Sahil Bhatia</strong> — Exploring systems, intelligence, and code in the dark.
+  </p>
+
+  ---
+
+  ### <code>&gt; cat pinned_projects.sys</code>
+
+</div>
+
+```bash
+# Initializing project registry...
