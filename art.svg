@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="100%" height="auto">
+  <style>
+    .ascii {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 13px;
+      font-weight: bold;
+      white-space: pre;
+      animation: colorCycle 3.5s steps(1) infinite;
+    }
+
+    /* 5 distinct colors changing every 0.7s (3.5s total loop) */
+    @keyframes colorCycle {
+      0%, 100% { fill: #00FF66; }  /* Terminal Matrix Green */
+      20%      { fill: #00E5FF; }  /* Cyber Cyan */
+      40%      { fill: #BD00FF; }  /* Neon Purple */
+      60%      { fill: #FF0055; }  /* Glitch Crimson */
+      80%      { fill: #FFB800; }  /* Amber Console */
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <text x="50%" y="30" text-anchor="middle" class="ascii">
+    <tspan x="50%" dy="1.2em">                             *:                                    </tspan>
+    <tspan x="50%" dy="1.2em">                              %@@#=                                </tspan>
+    <tspan x="50%" dy="1.2em">                            ]@#  #@&gt;                               </tspan>
+    <tspan x="50%" dy="1.2em">                          -@[      #%:                             </tspan>
+    <tspan x="50%" dy="1.2em">                         ]@-        +@[                            </tspan>
+    <tspan x="50%" dy="1.2em">                        *}            %]                           </tspan>
+    <tspan x="50%" dy="1.2em">                       +&lt;             -@+                          </tspan>
+    <tspan x="50%" dy="1.2em">                       #-              )}                          </tspan>
+    <tspan x="50%" dy="1.2em">                      #%               &lt;@+                         </tspan>
+    <tspan x="50%" dy="1.2em">                     =@) *[]}#%%##})&lt;- ]#%                         </tspan>
+    <tspan x="50%" dy="1.2em">                     )@%#@@+       +##}@@@=                        </tspan>
+    <tspan x="50%" dy="1.2em">                   +%@@}               &lt;#@@@&gt;                      </tspan>
+    <tspan x="50%" dy="1.2em">                 &lt;@#)-@&lt;               +][ :@@&gt;                    </tspan>
+    <tspan x="50%" dy="1.2em">               -#@*   ))              +&lt;}    :%}                   </tspan>
+    <tspan x="50%" dy="1.2em">              &gt;@#-    :#+            :&gt;}:     :[#&gt;                 </tspan>
+    <tspan x="50%" dy="1.2em">             &lt;@}:      *#           -&gt;@+        ]@[                </tspan>
+    <tspan x="50%" dy="1.2em">            :}#         )@         -#@&lt;          }@}               </tspan>
+    <tspan x="50%" dy="1.2em">            &lt;@-          +[[      +@}:           -#@=              </tspan>
+    <tspan x="50%" dy="1.2em">            [[             +}=  -@@&gt;              )[#              </tspan>
+    <tspan x="50%" dy="1.2em">         --&gt;@}              :[@@#*               &gt;%@@&gt;             </tspan>
+    <tspan x="50%" dy="1.2em">           ]@@@]*        *@@@@&lt;=)#@#&lt;*&lt;&lt;)))}%@%}[#*  -             </tspan>
+    <tspan x="50%" dy="1.2em">           =)- +[##%#}##]+:         =)[#%#})&gt;-                     </tspan>
+  </text>
+</svg>
