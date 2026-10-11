@@ -26,18 +26,7 @@
 | **Editing** | cuts · pacing · tone · colour mood | `time is a material` |
 | **Programming** | ![C++](https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus&logoColor=00FF9C) ![Python](https://img.shields.io/badge/Python-0a1128?style=flat-square&logo=python&logoColor=00FF9C) | `logic, then magic` |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&repeat=false&color=FF4D94&center=false&vCenter=true&width=450&height=40&lines=%3E+cat+pinned_projects.sys" alt="pinned projects" />
 
-```
-# Initializing project registry...
-# 3 entries found. Decrypting...
-```
-
-| Project | Language | Brief |
-|:--|:--|:--|
-| [**Cloud_Computing**](https://github.com/sahilbhatiaclg/Cloud_Computing) | Python | Semester-2 experiments, logged. |
-| [**Find_The_Imposter_Game**](https://github.com/sahilbhatiaclg/Find_The_Imposter_Game) | CSS | Trust no one. Find the imposter. |
-| [**Phishing_Email_Detection**](https://github.com/Akshat-2923/Computer_Ecosystem_Project-Phishing_Email_Detection-) | HTML | Collab. Spotting the bait before it bites. |
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&repeat=false&color=FF4D94&center=false&vCenter=true&width=400&height=40&lines=%3E+.%2Fconnect.sh" alt="connect" />
 
